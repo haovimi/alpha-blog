@@ -1,7 +1,4 @@
 {
-  "start": "node index.js"
-}
-{
   "name": "alpha-blog",
   "private": true,
   "dependencies": {}
