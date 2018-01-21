@@ -1,8 +1,5 @@
   {
   "name": "alpha-blog",
   "private": true,
-  "dependencies": {},
-  "scripts": {
-  "start": "node index.js"
-},
- }
+  "dependencies": {}
+  }
