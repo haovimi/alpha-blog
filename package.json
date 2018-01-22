@@ -1,5 +1,8 @@
-  {
-  "name": "alpha-blog",
-  "private": true,
-  "dependencies": {}
-  }
+{
+    "name": "alpha-blog",
+    "private": true,
+    "dependencies": {},
+    "scripts": {
+        "start": "node server.js"
+    }
+}
