@@ -11,9 +11,7 @@
 // about supported directives.
 //
 //= require rails-ujs
+//= require jquery
+//= require bootstrap-sprockets
 //= require turbolinks
 //= require_tree .
-var lodash = require('lodash');
-
-var output = lodash.without([1, 2, 3], 1);
-console.log(output);
